@@ -45,7 +45,7 @@ If this website wins, we are planning to put it up on netlify or hostinger ot 00
 
 ## Conclusion
 In the end I would just like to say we gave in our best and avoided using Javascript because while planning it in the beggining we were planning to use Firebase as well as React js to develop this web application and try making a twitter sort of thing since I was working on one lately. But under the circumstances to avoid using Javascript, we just used css.
-Here is the link to the website : [Link](https://avacadox21.github.io/tis-e-stats)
+Here is the link to the website : [Link](https://sohampanda345.github.io/TIS-E-Stats/)
 
 
   
